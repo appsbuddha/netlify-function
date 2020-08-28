@@ -1,0 +1,15 @@
+{
+  "name": "serverless-page",
+  "version": "1.0.0",
+  "description": "html page with a button to redirect user to another url",
+  "author": "abhishek anand",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+  }
+}
+
